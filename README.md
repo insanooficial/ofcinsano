@@ -31,7 +31,7 @@ Siga os passos abaixo!
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/vinizeus/vinizeu.git
-> cd vinizeus
+> cd vinizeu
 > bash install.sh
 ```
 
