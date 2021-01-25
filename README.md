@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/vinizeus/zeusbot.git
-> cd zeusbot
+> git clone https://github.com/vinizeus/vinizeu.git
+> cd vinizeus
 > bash install.sh
 ```
 
