@@ -234,12 +234,8 @@ Siga os passos abaixo!
 
 
 
-## Agradecimentos especiais para
+## CONTATOS
 
-- [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) 
-- [RyzRdy](https://github.com/RyzRdy)
-- [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
-- [Mr-hadi](https://github.com/Mr-hadi)
-- [MhankBarBar](https://github.com/mhankbarbar)
-- [NazwaS](https://github.com/NazwaS)
+- Whatsapp: wa.me/+556993899391
+- Instagram: @zultra_edits
+- #FF0000YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
