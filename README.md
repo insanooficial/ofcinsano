@@ -25,7 +25,7 @@ Siga os passos abaixo!
 ```bash
 > termux-setup-storage
 (depois disso toque na permissão)
-> pkg install git
+> apt install git
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
