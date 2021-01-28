@@ -236,6 +236,6 @@ Siga os passos abaixo!
 
 ## CONTATOS
 
-- Whatsapp: wa.me/+556993899391
-- Instagram: @zultra_edits
-- YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
+- Whatsapp: wa.me/+5561998242169
+- Instagram: @..
+
